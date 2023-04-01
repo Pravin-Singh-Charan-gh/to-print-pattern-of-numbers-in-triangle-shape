@@ -1,0 +1,1 @@
+# to-print-pattern-of-numbers-in-triangle-shape
